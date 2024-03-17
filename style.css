@@ -1,1 +1,29 @@
 
+body {
+    background-color: rgb(73, 88, 88);
+  }
+
+
+  h1 { 
+    color: darkgoldenrod;
+    font-size: 50px;
+    text-align: center;
+    font: 300;
+
+  }
+
+
+    img {
+  height: 235px;
+  border-style: initial;
+  border-width: 6px;
+  border-color: powderblue;
+  border-radius: 16px;
+}
+
+
+p { 
+font-size: 19px;
+color: darkgoldenrod;
+
+}
